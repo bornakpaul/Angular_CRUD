@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Rimo",
+      "lastName": "Paul",
+      "email": "rimo@gmail.com",
+      "mobile": "8752901454",
+      "password": "rimopaul"
+    },
+    {
+      "id": 6,
+      "firstName": "testing",
+      "lastName": "new",
+      "email": "angulartest",
+      "mobile": "7824445479",
+      "password": "angulartest"
+    },
+    {
+      "id": 8,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "mobile": "7337743323",
+      "password": "testing"
+    },
+    {
+      "id": 9,
+      "firstName": "test",
+      "lastName": "testing",
+      "email": "tstnew@gmail.com",
+      "mobile": "2948y2984y",
+      "password": "sdjbjsd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
